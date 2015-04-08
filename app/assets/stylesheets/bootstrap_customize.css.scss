@@ -1,6 +1,9 @@
-$body-bg:  		      #3498db;
+$body-bg:  		      #95a5a6;
 $navbar-default-bg:   #49a5a9;
 $jumbotron-padding:   40px;
 $jumbotron-color:     inherit;
 $jumbotron-bg:        #bdc3c7;   
 @import "bootstrap";
+.center {text-align: center; }
+
+.navbar-brand {font-weight: bold;}
